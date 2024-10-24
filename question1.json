@@ -1,0 +1,53 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Arya placed apples in the baskets. Help Arya by choosing the correct group of apples.",
+        "options": [
+            "2 groups of 3",
+            "3 groups of 2"
+        ],
+        "correct": 0,
+        "secondImg":"./images/11.jpg"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Arya packed oranges in the bags. Help Arya by choosing the correct option.",
+        "options": [
+            "4 groups of 3",
+            "3 groups of 4"
+        ],
+        "correct": 1,
+        "secondImg":"./images/12.jpg"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Help Arya in arranging the packet of chips in shelves by choosing the correct  group of chips.",
+        "options": [
+            "2 groups of 3",
+            "3 groups of 2"
+        ],
+        "correct": 1,
+        "secondImg":"./images/13.jpg"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Arya stacked bread loaves on the shelves. Help Arya by choosing the correct answer.",
+        "options": [
+            "6 groups of 4",
+            "4 groups of 6"
+        ],
+        "correct": 0,
+        "secondImg":"./images/14.jpg"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Her mother asked her to pack the strawberries in the boxes. Choose the correct answer option to help her mother.",
+        "options": [
+            "5 groups of 6",
+            "6 groups of 5"
+        ],
+        "correct": 0,
+       "secondImg":"./images/15.jpg"
+    }
+  ]
+  
